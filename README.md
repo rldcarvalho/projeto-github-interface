@@ -2,7 +2,7 @@
 
 Projeto de uma interface que consome a [API do Github](https://docs.github.com/pt/rest/guides/getting-started-with-the-rest-api), permitindo a busca de usuários cadastrados na plataforma e exibindo informações do seu perfil.
 
-O intuito foi a criação de  uma aplicação React componentizada, utilizando módulos independentes a fim de reduzir as responsabilidades dos componentes, e assim, facilitar a evolução e manutenção do código.
+O objetivo foi a criação de  uma aplicação React componentizada, utilizando módulos independentes a fim de reduzir as responsabilidades dos componentes, e assim, facilitar a evolução e manutenção do código.
 
 ### Prévia do projeto:
 
