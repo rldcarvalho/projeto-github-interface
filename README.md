@@ -23,7 +23,9 @@ Esse projeto foi criado com a utilização do [Create React App](https://github.
 
 Através do bash, no diretório do projeto, execute:
 
-#### `npm start`
+```
+npm start
+```
 
 
 Abra [http://localhost:3000](http://localhost:3000) para visualizar no seu navegador.
